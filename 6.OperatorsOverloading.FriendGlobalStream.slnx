@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.FriendGlobalStream/01.FriendGlobalStream.vcxproj" Id="6d27fb0c-a648-4cd4-9c7c-48b5dec8d8cf" />
+  <Project Path="02.SpecialOperators/02.SpecialOperators.vcxproj" Id="f26e6c5a-4b12-409c-8ad4-921b2249206b" />
+  <Project Path="HomeWork26/HomeWork26.vcxproj" Id="e1abe559-5906-404b-afde-2ec3f4785f5d" />
+</Solution>
